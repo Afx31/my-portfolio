@@ -17,20 +17,15 @@ const About = () => {
           <h2 className="about-heading-2">A Little Bit About Me</h2>
           <hr />
           <p className="about-description">
-            My name is William Mitchell and I am 24 years of age from Australia.
-            As of late 2019 I finished my Bachelor of Science in Information
-            Technology, majoring in Enterprise Systems Development at the
-            <a className="about-link" href="https://www.uts.edu.au">
-              {" "}
-              University of Technology Sydney
-            </a>
-            .
+            My name is William, a Software Engineer based in Australia.
+            My day to day job is in the .NET/SQL FinTech space, whilst diving 
+            into other areas such as ASP.NET & Web at work.
             <br />
             <br />
-            In my spare time I'm always eager to expand on my software
-            development knowledge. Whether it's learning a new language,
-            frameworks, a online course or working on my own projects, I'm
-            always enjoying software development.
+            In my spare time, I'm working on a data acquisition monitoring device
+            for my race car, side .NET applications and various web projects like 
+            a blogsite and my own UI framework. I also enjoy upskilling in various 
+            tech like C++, Python & computer architecture & design.
             <br />
             <br />
             If you have any questions or would like to get in contact with me,

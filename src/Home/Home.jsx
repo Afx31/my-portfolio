@@ -8,7 +8,7 @@ const Home = () => {
   let [startType, setStartType] = useState(false);
   let [startDelete, setStartDelete] = useState(false);
   let [indexToType, setIndexToType] = useState(null);
-  const textToType = ["Web", "Mobile", "Application"];
+  const textToType = ["Application", "Web", "Mobile"];
 
   useEffect(() => {
     const typeText = () => {
@@ -55,9 +55,9 @@ const Home = () => {
       <div className="home-image-low-res" />
       <div className="home-image-high-res" />
       <div className="home-text">
-        <h2 className="home-heading-2">HI, I'M WILL</h2>
+        <h2 className="home-heading-2">Howdy</h2>
         <div className="home-description">
-          <span className="home-normal-text">Junior&nbsp;</span>
+          <span className="home-normal-text">Mid&nbsp;</span>
           <span className="home-typing-text">{text}</span>          
           <span className="home-normal-text"> Developer &nbsp;</span>
         </div>
