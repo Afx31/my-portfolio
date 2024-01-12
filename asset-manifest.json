@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/afx31-portfolio/static/css/main.f5568b74.css",
+    "main.js": "/afx31-portfolio/static/js/main.55defde3.js",
+    "static/media/wallpaper-high-res.jpg": "/afx31-portfolio/static/media/wallpaper-high-res.fd2db172e29ef79984f4.jpg",
+    "static/media/portfolioImage.png": "/afx31-portfolio/static/media/portfolioImage.87ed2046ba0eeccbcd12.png",
+    "static/media/gridtemplateImage.png": "/afx31-portfolio/static/media/gridtemplateImage.c15f7013184d96713c56.png",
+    "static/media/wireframes.jpg": "/afx31-portfolio/static/media/wireframes.d0c4b4355654de3af8d2.jpg",
+    "static/media/wallpaper-superlow-res.png": "/afx31-portfolio/static/media/wallpaper-superlow-res.e108c8b11c837a7685a6.png",
+    "static/media/wallpaper-low-res.png": "/afx31-portfolio/static/media/wallpaper-low-res.76f6d678f968c93887ce.png",
+    "static/media/mernImage.png": "/afx31-portfolio/static/media/mernImage.b9869974599456316a0c.png",
+    "static/media/sprite.svg": "/afx31-portfolio/static/media/sprite.3e1a36258f78730207d9d1c605db1d81.svg",
+    "index.html": "/afx31-portfolio/index.html",
+    "main.f5568b74.css.map": "/afx31-portfolio/static/css/main.f5568b74.css.map",
+    "main.55defde3.js.map": "/afx31-portfolio/static/js/main.55defde3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5568b74.css",
+    "static/js/main.55defde3.js"
+  ]
+}
