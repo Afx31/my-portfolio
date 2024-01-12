@@ -1,6 +1,6 @@
 {
-  "homepage": "http://afx31.github.io/my-portfolio",
-  "name": "my-portfolio",
+  "homepage": "http://afx31.github.io/afx31-portfolio",
+  "name": "afx31-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
