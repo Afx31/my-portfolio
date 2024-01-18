@@ -21,17 +21,17 @@
 
 .home-image-superlow-res {
   z-index: -3;
-  background-image: url("../img/wallpaper-superlow-res.png");
+  background-image: url('../img/wallpaper-superlow-res.png');
 }
 
 .home-image-low-res {
   z-index: -2;
-  background-image: url("../img/wallpaper-low-res.png");
+  background-image: url('../img/wallpaper-low-res.png');
 }
 
 .home-image-high-res {
   z-index: -1;
-  background-image: url("../img/wallpaper-high-res.jpg");
+  background-image: url('../img/wallpaper-high-res.jpg');
 }
 
 .home-text {
